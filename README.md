@@ -1,11 +1,17 @@
 # Hi, I'm Armaan! 
-Thanks for taking a minute to see what I've been working on...
+Thanks for taking a minute to see what I've been working on :-)
 
 ![Armaan Kolsawala — software engineer](assets/profile-banner-slate-blue.png)
 
 ## Incident Copilot
 
-Claude investigates simulated outages across seven services and six fault types using logs, metrics, deployments, and runbooks. The demo shows its diagnosis, supporting evidence, and suggested next steps.
+Claude investigates simulated outages across seven services and six fault types using logs, metrics, and deployments. The demo shows its diagnosis, supporting evidence, and suggested next steps.
+
+**How the logs are made:**
+- Python generates two hours of sample logs, performance metrics, and deployment history.
+- One of six simulated faults adds recognizable symptoms—for example, rising memory followed by an out-of-memory restart.
+- A seed varies the affected service, metric values, and background logs. The same seed and settings reproduce the same case.
+- Undiagnosable cases show signs of an outage but omit the logs and metrics needed to determine why. The agent should acknowledge the missing evidence instead of guessing.
 
 **[Live demo →](https://incident-copilot.fly.dev/#access=475qN7AHUNlRQItTZJFRFVjjpmybe4-vFtpIzUzgix4xHBRtj2_xHDFHYbE_R3Ug)** · **[Code](https://github.com/armaankols/incident-copilot)** · **[Evaluation details](https://github.com/armaankols/incident-copilot/blob/main/results/RESULTS.md)**
 
@@ -16,7 +22,7 @@ Claude investigates simulated outages across seven services and six fault types 
 - **Evaluation:** Seeded cases, ground-truth grading, rule baselines, confidence intervals, and token-cost tracking.
 - **Hosted demo:** Saved investigations, link-based access, owner-only Sonnet, and persistent SQLite budget and rate controls.
 
-**Owner-reported synthetic results:** 38/40 correct diagnoses (95%), appropriate abstention on 9/10 undiagnosable cases (90%), and $0.04 average API cost per incident. Run-level records for this batch are not included in the repository; these results do not establish production reliability.
+**Results:** 38/40 correct diagnoses (95%), appropriate abstention on 9/10 undiagnosable cases (90%), and $0.04 average API cost per incident. These results do not establish production reliability.
 
 ## More of my work
 
