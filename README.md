@@ -1,6 +1,6 @@
-![Armaan Kolsawala — software engineer](assets/profile-banner-slate-blue.png)
+### Hi, I'm Armaan! Thanks for taking a minute to see what I've been working on:
 
-Hi! I'm Armaan :D Thanks for taking a second to see what I've been working on
+![Armaan Kolsawala — software engineer](assets/profile-banner-slate-blue.png)
 
 ## Incident Copilot
 
