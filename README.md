@@ -1,5 +1,7 @@
 ![Armaan Kolsawala — software engineer](assets/profile-banner-slate-blue.png)
 
+Hi! I'm Armaan :D Thanks for taking a second to see what I've been working on
+
 ## Incident Copilot
 
 Claude investigates simulated outages across seven services and six fault types using logs, metrics, deployments, and runbooks. The demo shows its diagnosis, supporting evidence, and suggested next steps.
