@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1357" height="446" viewBox="0 0 1357 446" role="img" aria-labelledby="title desc">
+  <title id="title">Armaan Kolsawala — software engineer</title>
+  <desc id="desc">Clean mixed-case typography on lighter slate navy, with slate corner circles, warm brass and teal details, and no sprinkles.</desc>
+  <rect width="1357" height="446" fill="#24364D"/>
+  <circle cx="42" cy="25" r="141" fill="#405570"/>
+  <circle cx="1311" cy="453" r="150" fill="#3D5B65"/>
+  <path d="M1185 45 L1198 79 L1232 92 L1198 105 L1185 139 L1172 105 L1138 92 L1172 79 Z" fill="#CFB77D"/>
+  <path d="M190 354 C207 333 222 376 239 354 S272 376 289 354" fill="none" stroke="#76A6A7" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="117" cy="294" r="11" fill="#C49387"/>
+  <circle cx="1261" cy="193" r="10" fill="#93B7AB"/>
+  <text x="678.5" y="226" text-anchor="middle" fill="#F1F4F8" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="82" font-weight="500" letter-spacing="-2">Armaan Kolsawala</text>
+  <text x="678.5" y="286" text-anchor="middle" fill="#C3D0DF" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="29" font-weight="400" letter-spacing="1.5">software engineer</text>
+</svg>
