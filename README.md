@@ -1,4 +1,5 @@
-### Hi, I'm Armaan! Thanks for taking a minute to see what I've been working on:
+# Hi, I'm Armaan! 
+Thanks for taking a minute to see what I've been working on...
 
 ![Armaan Kolsawala — software engineer](assets/profile-banner-slate-blue.png)
 
